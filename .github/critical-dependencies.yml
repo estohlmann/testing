@@ -2,6 +2,9 @@
 - primeng
 - d3
 - codelyzer
+- foo
 - protractor
 - zone.js
 - "@angular-devkit/build-angular"
+- bar
+- something
