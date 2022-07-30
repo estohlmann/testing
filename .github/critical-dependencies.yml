@@ -1,0 +1,7 @@
+- @angular/core
+- primeng
+- d3
+- codelyzer
+- protractor
+- zone.js
+- @angular-devkit/build-angular
